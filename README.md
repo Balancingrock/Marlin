@@ -9,9 +9,9 @@ off of the **bugfix-2.0.x** branch.
 
 ### Flashing - Installing the firmware -
 
-V1 Docs flash with ![Arduino](https://docs.v1engineering.com/electronics/marlin-firmware/).
+V1 Docs flash with ![Arduino](https://v1engineering.com/electronics/marlin-firmware/).
 
-V1 Docs flash with ![Platform.io](https://docs.v1engineering.com/learn/platformio/).
+V1 Docs flash with ![Platform.io](https://v1engineering.com/learn/platformio/).
 
 #### Most Common Choices
 
