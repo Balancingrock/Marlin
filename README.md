@@ -1,6 +1,4 @@
-# V1 Engineering Preconfigured Marlin
-
-# Edited by Balancingrock
+# Edited by Balancingrock, based on the V1 Engineering Preconfigured Marlin
 
 _The MPCNC_Ramps_T8_16T_LCD_32step version has been modified for use with leadscrews._
 
